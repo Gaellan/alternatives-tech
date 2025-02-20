@@ -5,9 +5,11 @@ Une liste, collaborative, de solutions alternatives à certains services de la T
 
 - [Blogging](https://github.com/Gaellan/alternatives-tech/blob/main/blogging/index.md)
 - [Newsletters](https://github.com/Gaellan/alternatives-tech/blob/main/newsletters/index.md)
+- [Veille Technologique](https://github.com/Gaellan/alternatives-tech/blob/main/veille-technologique/index.md)
 
 ## Par nom de plateforme
 
 - [Medium](https://github.com/Gaellan/alternatives-tech/blob/main/blogging/index.md)
 - [Blogger](https://github.com/Gaellan/alternatives-tech/blob/main/blogging/index.md)
 - [Substack](https://github.com/Gaellan/alternatives-tech/blob/main/newsletters/index.md)
+- [Twitter pour la veille](https://github.com/Gaellan/alternatives-tech/blob/main/veille-technologique/index.md)
