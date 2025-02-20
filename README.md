@@ -7,6 +7,7 @@ Une liste, collaborative, de solutions alternatives à certains services de la T
 - [Newsletters](https://github.com/Gaellan/alternatives-tech/blob/main/newsletters/index.md)
 - [Veille Technologique](https://github.com/Gaellan/alternatives-tech/blob/main/veille-technologique/index.md)
 - [Réseaux sociaux](https://github.com/Gaellan/alternatives-tech/blob/main/reseaux-sociaux/reseaux_sociaux.md)
+- [Emails](https://github.com/Gaellan/alternatives-tech/blob/main/email/emails.md)
 
 ## Par nom de plateforme
 
